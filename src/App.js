@@ -1,11 +1,13 @@
 import React from 'react';
 import Header from './components/Header';
+import Meme_Generator from './components/Meme_Generator';
 
 class App extends React.Component {
   render() {
     return (
       <div>
         <Header />
+        <Meme_Generator />
       </div>
     );
   }
