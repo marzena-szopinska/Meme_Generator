@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Meme_Generator extends React.Component {
+class MemeGenerator extends React.Component {
     constructor() {
         super();
         // initialize the state
@@ -74,4 +74,4 @@ class Meme_Generator extends React.Component {
     }
 }
 
-export default Meme_Generator;
+export default MemeGenerator;
