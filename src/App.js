@@ -5,7 +5,7 @@ import Meme_Generator from './components/Meme_Generator';
 class App extends React.Component {
   render() {
     return (
-      <div>
+      <div className='container'>
         <Header />
         <Meme_Generator />
       </div>
